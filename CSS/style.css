@@ -1,0 +1,17 @@
+html {
+    background-color: bisque;
+    text-align: center;
+} 
+.paragraph{
+    text-align: center;
+    color: chocolate;
+}
+.my-image img{
+    width: 400px;
+    height: 500px;
+    border-radius: 20px;
+}
+.name{
+    text-align: center;
+    color: black;
+}
